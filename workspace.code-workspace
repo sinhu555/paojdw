@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\ORDEER_BOT\\commands"
+		},
+		{
+			"path": "..\\ORDEER_BOT\\config"
+		},
+		{
+			"path": "..\\ORDEER_BOT\\Discord.js"
+		},
+		{
+			"path": "..\\ORDEER_BOT\\item"
+		}
+	],
+	"settings": {}
+}
